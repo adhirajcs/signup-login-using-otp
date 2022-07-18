@@ -1,0 +1,9 @@
+.otp{
+    text-align: center; 
+}
+.second_box{
+    display:none;
+}
+.error{
+    color: red;
+}
