@@ -12,7 +12,7 @@ if($count>0)
     $_SESSION['phone']=$phone;
      
     
-    $api_key = '673d692b-b70f-11ec-a4c2-0200cd936042'; // API Key
+    $api_key = '####'; // API Key
 	$req = "https://2factor.in/API/V1/".$api_key."/SMS/".$phone."/".$otp;
 
 	$sms = file_get_contents($req);
