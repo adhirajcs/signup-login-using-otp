@@ -5,5 +5,5 @@ This is an Industrial Live Research Project where I made a sign-up and login pag
 ## API
 I used a free API of the OTP message gateway service provided by [2factor](https://2factor.in/).
 
-## License
+## Author
 [Adhiraj](https://github.com/adhirajcs)
